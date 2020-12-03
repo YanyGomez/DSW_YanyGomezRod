@@ -8,21 +8,21 @@
 
 body{
 	font-family:'Raleway';
-	font-size: 16px;
+	font-size: 14px;
 }
 
 header nav{
 	
 	/* width: 1000px; */
 	/* margin: 30px auto; */
-	height: 70px;
-	background:#20f420;
+	
+	background:#6020f4;
 	display: flex;
 	justify-content: space-between;
 }
 
 /*Submenu*/
-/* .enlacesdos{
+.submenu{
 	position: absolute;
 	background: #333333;
 	width: 120%;
@@ -36,7 +36,7 @@ header nav{
 	color: #fff;
 	font-family: Open sans;
 	text-decoration: none;
-} */
+} 
 
 h1{
 color:#005883;
@@ -54,6 +54,6 @@ font-family: angsana New;
 
 }
 
-div{
+/* div{
 	background-color:#F47920;
-}
+} */
