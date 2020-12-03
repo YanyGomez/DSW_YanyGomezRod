@@ -12,18 +12,18 @@ nav{
 	margin: 30px auto;
 	background:#F47920;
 }
-.navegacion{
+.navegacion ul{
 	list-style: none;
 
 }
-menu> li{
+menu > li{
 	position: relative;
 	display: inline-block;
 }
 menu> li>a{
 	display: block;
 	padding: 15px 20px;
-	color: #353535;
+	color: #fff;
 	font-family:Open sans;
 	text-decoration: none;
 }
