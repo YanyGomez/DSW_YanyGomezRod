@@ -8,11 +8,11 @@
 } 
 
 nav{
-	width: 100px;
+	width: 1000px;
 	margin: 30px auto;
 	background:#F47920;
 }
-nav{
+.navegacion{
 	list-style: none;
 
 }
