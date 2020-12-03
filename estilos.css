@@ -6,27 +6,27 @@
 	box-sizing: border-box;
 } 
 
-nav{
+.navegacion{
 	width: 1000px;
 	margin: 30px auto;
-	background:#20f42b;
+	background:#2083f4;
 }
-nav ul{
+.navegacion ul{
 	list-style: none;
 
 }
-menu > li{
+.menu > li{
 	position: relative;
 	display: inline-block;
 }
-menu> li>a{
+.menu> li>a{
 	display: block;
 	padding: 15px 20px;
 	color: #fff;
 	font-family:Open sans;
 	text-decoration: none;
 }
-menu li a :hover{
+.menu li a :hover{
 color: #CE7D35;
 transition: all .3s;
 }
@@ -47,7 +47,7 @@ transition: all .3s;
 	text-decoration: none;
 }
 
-menu li :hover.submenu{
+.menu li :hover.submenu{
 
 	visibility: visible;
 	opacity: 1;
