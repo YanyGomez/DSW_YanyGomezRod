@@ -24,7 +24,7 @@ header nav{
 .enlaces li a{
 	display: flex;
 	height: 100%;
-	width: 30%;
+	width: 100%;
 	justify-content: space-around;
 	align-items: center;
 	border:1px solid;
