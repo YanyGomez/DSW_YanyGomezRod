@@ -12,12 +12,14 @@ body{
 }
 
 header nav{
-	
-	width: 1000px; 
-	margin: 1000px auto; 
+	list-style: none;
+	padding: 0;
+	width: 90%; 
+	max-width: 1000px;
 	font-size: 16px;
 	background:#0817df;
 	display: flex;
+	margin: auto;
 	justify-content: space-between;
 }
 
@@ -38,7 +40,7 @@ header nav{
 	transition: 0.7 ease-out;
 	color: #fff;
 	text-decoration: none;
-	list-style: none;
+	
 
 }
 
