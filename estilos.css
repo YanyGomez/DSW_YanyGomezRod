@@ -13,10 +13,10 @@ body{
 
 header nav{
 	
-	/* width: 1000px; */
-	/* margin: 30px auto; */
-	
-	background:#f4aa20;
+	width: 1000px; 
+	margin: 30px auto; 
+	font-size: 16px;
+	background:#0817df;
 	display: flex;
 	justify-content: space-between;
 }
